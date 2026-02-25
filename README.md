@@ -68,7 +68,7 @@ TransLingua/
 
 ### 1️. Clone the repository
 ```bash
-git clone https://github.com/PattanJaveedKhan/TransLingua-AI-Powered-Multi-Language-Translator.git
+git clone https://github.com/PattanJaveedKhan/TransLingua.git
 ```
 2. Create virtual environment (one time)
 ```bash

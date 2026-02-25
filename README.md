@@ -146,6 +146,6 @@ Pattan Javeed Khan
 
 Shaik Aaliya Sulthana
 
-Pradhamakavi HimaKiran
+Pradhamakavi Himakiran
 
 Palla Sruthi
